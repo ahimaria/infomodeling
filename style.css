@@ -6,7 +6,7 @@
   z-index: 997;
 }
 .header.sticked {
-  background: var(--color-white);
+  background: var(--color-black);
   box-shadow: 0px 2px 20px rgba(var(--color-secondary-rgb), 0.1);
 }
 .header .logo img {
@@ -33,7 +33,7 @@
   font-family: var(--font-secondary);
 }
 .header .btn-getstarted:hover, .header .btn-getstarted:focus:hover {
-  color: var(--color-white);
+  color: var(--color-black);
   background: rgba(var(--color-primary-rgb), 0.85);
 }
 @media (max-width: 1279px) {
