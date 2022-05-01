@@ -1,5 +1,5 @@
 #navbar li {
-    background-color:darkgreen;
+    background-color:#fca6d3e2;
     font-size: 13px;
     color:blueviolet;
 
@@ -8,7 +8,7 @@
 }
 
 #navbar ul {
-    background-color: darkgreen;
-    font-size: 12px;
+    background-color:#fca6d3e2;
+    font-size: 13px;
     color:blueviolet;
 }
