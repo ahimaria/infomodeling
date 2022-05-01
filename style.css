@@ -1,5 +1,8 @@
 #Header
 --------------------------------------------------------------*/
+
+
+#coverpagew3school 
 .w3-container {
   padding:0.01em 16px
 }
@@ -76,7 +79,18 @@
   background-size: cover;
 }
 
+#finecoverpage
 
+
+
+#iconestili
+
+.nav-item {
+  font-size: 1.5rem;
+}
+
+
+#fineiconestili
 
 .w3-jumbo .w3-animate-top h1 {
   font-family: "Segoe UI", Arial, sans-serif;
