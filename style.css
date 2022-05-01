@@ -87,7 +87,15 @@
   
   
   h1{
-      color:rgb(174, 35, 35)
+      color:rgb(174, 35, 35);
+      font-family: "Raleway", sans-serif; 
+  }
+  html {height: 100%}
+  .bgimg {
+    background-image: url('./bg.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
   }
   
   /*--------------------------------------------------------------
